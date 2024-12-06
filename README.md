@@ -1,10 +1,9 @@
 # Quality in Software System
 
-### 1. Read the CHAPTER 5- Software Testing from Guide to the Software Engineering Body of Knowledge v4.0- SWEBOK- v4.0
 
-### 2. Read the OWASP Application Security Verification Standard (ASVS)
+### 1. Read the OWASP Application Security Verification Standard (ASVS)
 
-### 3. Develop a simple application, with at least 5 functions
+### 2. Develop a simple application, with at least 5 functions
 
 #### Purpose of the Application
 
@@ -31,11 +30,11 @@
 5. Validate Input Data:
    Ensure data integrity by validating name, email, and phone based on the specified country format.
 
-### 4. Create unit tests for each of the application’s functions and execute both of them (generate an XML with the Test Execution Result)
+### 3. Create unit tests for each of the application’s functions and execute both of them (generate an XML with the Test Execution Result)
 
 > the test of each function is done in the test_people_list.py file.
 
-### 5. ASVS Requirement that I choose
+### 4. ASVS Requirement that I choose
 
 >
 
