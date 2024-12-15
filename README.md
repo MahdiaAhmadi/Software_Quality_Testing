@@ -1,5 +1,7 @@
 # Quality in Software System
 
+> This simple project was done as part of the quality of the information system subject in IPB.
+
 
 ### 1. Read the OWASP Application Security Verification Standard (ASVS)
 
