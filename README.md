@@ -40,3 +40,15 @@
 >
 
     5.1.4 - Verify that structured data is strongly typed and validated against a defined schema including allowed characters, length and pattern (e.g. credit card numbers, e-mail addresses, telephone numbers, or validating that two related fields are reasonable, such as checking that suburb and zip/postcode match).
+
+
+### 6. Pytest How-to-run
+
+```bash
+python3 -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+
+pytest test_people_list.py -v
+```
+   
