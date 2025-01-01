@@ -1,0 +1,14 @@
+============================= test session starts ==============================
+platform linux -- Python 3.12.7, pytest-8.3.3, pluggy-1.5.0 -- /home/salipe/Documents/IPB/QSI/.venv/bin/python3
+cachedir: .pytest_cache
+rootdir: /home/salipe/Desktop/qsi_second_pratical_work
+plugins: xdist-3.6.1
+collecting ... collected 5 items
+
+test_people_list.py::test_add_person PASSED                              [ 20%]
+test_people_list.py::test_remove_person PASSED                           [ 40%]
+test_people_list.py::test_find_person PASSED                             [ 60%]
+test_people_list.py::test_validate_person_data PASSED                    [ 80%]
+test_people_list.py::test_see_all_people PASSED                          [100%]
+
+============================== 5 passed in 0.01s ===============================
